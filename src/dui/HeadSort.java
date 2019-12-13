@@ -1,6 +1,5 @@
-package dulie;
+package dui;
 
-import java.time.temporal.Temporal;
 import java.util.Arrays;
 
 public class HeadSort {
