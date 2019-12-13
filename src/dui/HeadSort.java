@@ -48,7 +48,7 @@ public class HeadSort {
                     break;
                 }
             }
-            //循环结束.已经将以i为父节点的树的最大值,放在了最顶部
+
             arr[i]=temp;
     }
 }
